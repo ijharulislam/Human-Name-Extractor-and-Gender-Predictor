@@ -1,5 +1,7 @@
+This is my first repo with A.I.
+I Used python natural language processing toolkit (nltk) here.
 
-This is very usefull Script. First i wrote an extractor function which takes text and using nltk it extracts human names.
+First i wrote an extractor function which takes text and using nltk it extracts human names.
 After extracting names I used Sholiday gender predictor codes. Then I exported all names with gender as a csv file.
 
 You can find sholiday gender predictor Here..
