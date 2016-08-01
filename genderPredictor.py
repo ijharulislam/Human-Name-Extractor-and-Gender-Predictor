@@ -152,7 +152,6 @@ if __name__ == "__main__":
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
             writer.writeheader()
             for row in dict_data:
-                # r = row.encode("utf-8")
                 writer.writerow(row)
 
 
