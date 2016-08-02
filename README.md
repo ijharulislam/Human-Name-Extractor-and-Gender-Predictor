@@ -1,4 +1,4 @@
-This is my first repo with A.I.
+This is my first repo using A.I.
 
 I Used python natural language processing toolkit (nltk) here.
 
